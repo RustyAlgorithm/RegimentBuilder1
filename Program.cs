@@ -14,3 +14,17 @@ if (homeworld == null || homeworld.Length == 0)
     Console.WriteLine("Invalid homeworld. Exiting.");
     return;
 }
+
+//store Data on Home worlds and perks somewhere SQL? CSV? JSON?
+//data for new regiments should be stored in a DB/CSV
+
+//Add Print functionality
+//Set Format for Print info should be clear and easy to read
+//Add Search functionality
+//Add Update functionality
+//Add Delete functionality
+
+//is a console app the best place for this or should it be a web app?
+//if it is a web app, how do we handle the data storage?
+//how do we handle the data storage in general?
+
